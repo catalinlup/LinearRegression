@@ -23,7 +23,7 @@ Command example:<br>
 </p>
 <p>
 <h1>Details</h1>
-For more information on the topic check out <a href='https://www.coursera.org/learn/machine-learning'>Andrew Ng's Machine Learinig Course</a>.<br>
+For more information on the topic check out <a href='https://www.coursera.org/learn/machine-learning'>Andrew Ng's Machine Learning Course</a>.<br>
 <h2>Hope you enjoy it!</h2>
 </p>
 
